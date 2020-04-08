@@ -1,1 +1,6 @@
-
+hello friend!`q:!
+ :q!
+ cls
+ git add .
+ y
+ hello smsdffsfs
